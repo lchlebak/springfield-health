@@ -1,0 +1,5 @@
+Health Plans,Medical Deductible ,Drug Deductible,Total Deductible,Medical OOP,Drug OOP,Total OOP
+VEHI Platinum,1000,0,1000,3000,2600,5600
+VEHI Gold,2400,0,2400,3600,2600,6200
+VEHI Gold CDHP,3600,3600,3600,5000,2600,5000
+VEHI Silver CDHP,6000,6000,6000,8000,2600,8000
