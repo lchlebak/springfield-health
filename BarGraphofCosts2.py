@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 def cost_bar_graph2(n=.835, old_family_type="Family", new_family_type="Family",
                     old_plan="VHP"):
-# This provides a stacked bar graph showing the total amount current paid in
+# This provides a stacked bar graph showing the total amount currently paid in
 # terms of premiums, subdivided into the employee and district contributions,
 # compared to the amount of worst-case-scenario costs of premiums, deductibles,
 # and out-of-pocket limits. The new premiums, deductibles, and out-of-pocket
